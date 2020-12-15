@@ -4,7 +4,7 @@ Basic-auth Lab06
 by Sowmya Billakanti
 
 ## Links/Resources
-* [Github PR]()
+* [Github PR](https://github.com/Sowmya-401-advanced-javascript/basic-auth/pull/1)
 Basic express server using modularization, middleware MongoDB, Mongoose and tests and deploying to heroku.
 
 ## Setup
