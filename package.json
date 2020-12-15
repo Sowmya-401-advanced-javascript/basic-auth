@@ -2,10 +2,10 @@
   "name": "basic-auth",
   "version": "1.0.0",
   "description": "401-basic-authentication",
-  "main": "./src/server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node ./src/server.js",
-    "watch": "nodemon ./src/server.js",
+    "start": "node index.js",
+    "watch": "nodemon index.js",
     "test-watch": "jest --watchAll",
     "test": "jest"
   },
@@ -28,6 +28,7 @@
     "express": "^4.17.1",
     "jest": "^26.6.3",
     "mongoose": "^5.11.8",
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.6",
+    "supertest": "^6.0.1"
   }
 }
