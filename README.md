@@ -1,2 +1,24 @@
 # basic-auth
-401-basic-authentication
+
+Basic-auth Lab06
+by Sowmya Billakanti
+
+## Links/Resources
+* [Github PR]()
+Basic express server using modularization, middleware MongoDB, Mongoose and tests and deploying to heroku.
+
+## Setup
+- .env Requirements
+PORT=3000
+MONGOOSE_URI=mongodb://localhost:27017/flowers
+
+## Running the App
+npm start or nodemon
+
+## Endpoint
+used postman and in terminal HTTP pie
+
+## Test
+- run command `npm test`
+
+
